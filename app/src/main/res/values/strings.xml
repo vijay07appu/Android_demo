@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android_demo</string>
+    <string name="edit_text_hint">Please Enter your Name </string>
+</resources>
